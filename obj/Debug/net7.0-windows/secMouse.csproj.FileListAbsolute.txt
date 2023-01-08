@@ -1,0 +1,15 @@
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.csproj.AssemblyReference.cache
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.AssemblyInfoInputs.cache
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.AssemblyInfo.cs
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.csproj.CoreCompileInputs.cache
+C:\Users\kolad\Desktop\secMouse\bin\Debug\net7.0-windows\secMouse.exe
+C:\Users\kolad\Desktop\secMouse\bin\Debug\net7.0-windows\secMouse.deps.json
+C:\Users\kolad\Desktop\secMouse\bin\Debug\net7.0-windows\secMouse.runtimeconfig.json
+C:\Users\kolad\Desktop\secMouse\bin\Debug\net7.0-windows\secMouse.dll
+C:\Users\kolad\Desktop\secMouse\bin\Debug\net7.0-windows\secMouse.pdb
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.dll
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\refint\secMouse.dll
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.pdb
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\secMouse.genruntimeconfig.cache
+C:\Users\kolad\Desktop\secMouse\obj\Debug\net7.0-windows\ref\secMouse.dll
